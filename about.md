@@ -8,9 +8,15 @@ permalink: /about/
 
 Software Quality Engineer and Performance tester
 
+### Responsibilities
+- Performance Test (Gating, docker, k8s, Akka, Grafana, InfluxDB)
+- Client Automation Test (C# with Juice)
+- Server Automation Test (BDD - JBehave and Serenity)
+- Continuous Integration (Jenkins)
 
-I'm working in EA Korea as Software Quality Engineer. I'm in charge of Server performance test of FIFA online 4 
-which service in South Korea.
+### Workplace
+Electronic Arts Korea Studio
+
 
 [allenkim80]: https://github.com/allenkim80
 [Allen Kim]: http://bencentra.com
