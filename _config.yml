@@ -69,21 +69,21 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
+    username: Allen kim
     url:
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: allenkim
     url:
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
+    username: allenkim80
     url: https://github.com/allenkim80
     desc: Fork me on GitHub
     share: false

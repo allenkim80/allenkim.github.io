@@ -12,7 +12,7 @@ Load test는 보통 Server 개발 이후 Service를 하기 이전에 구성하�
 
 보통 많은 회사에서는 상용화된 Tool을 이용해서 많이 Load test를 하고 있으나, 전 Open source인 Gatling을 가지고 환경 구성을 해보고자 합니다. 
 
-##Blog 구성
+## Blog 구성
 
 - maven 으로 구성된 Gatling project
 - Docker image build 
