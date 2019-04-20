@@ -48,11 +48,8 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
-
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: Gatling
+    desc: "Post describing how to use Gatling of load testing tool"
 
 # Social icons and sharing options
 #
@@ -73,7 +70,7 @@ social:
   - name: Twitter
     icon: twitter
     username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    url:
     desc: Follow me on Twitter
     share: true
 
@@ -93,7 +90,7 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
+    username: Allen Kim
     url: https://www.linkedin.com/in/allen-kim-132887124/
     desc: Connect with me on LinkedIn
     share: true
@@ -195,4 +192,4 @@ protocols:
 
     os_repo: "https://github.com/allenkim80"
     os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+    os_src: "git@github.com:allenkim80/allenkim80.github.io.git"
